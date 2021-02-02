@@ -1,4 +1,4 @@
-# Kaufman Lab 
+# Kaufman Lab Resources
 
-- [DOOP](https://kaufman-lab.github.io/doop) 
-- [Glossary of Terms](https://github.com/kaufman-lab/glossary) _requires team membership_
+A directory of resources for Kaufman Lab members and collaborators. 
+Available on the web at https://kaufman-lab.github.io/! 
