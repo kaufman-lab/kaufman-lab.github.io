@@ -1,10 +1,11 @@
 # Resources
 
-- [DOOP](https://kaufman-lab.github.io/doop) 
+- DOOP [PDF](https://deohs.washington.edu/sites/default/files/MESAAirDOOP_Rev12.pdf) or [HTML](https://kaufman-lab.github.io/doop) (HTML version is in progress)
 - [Glossary of Terms](https://github.com/kaufman-lab/glossary/blob/master/README.md)
 - [Kaufman Lab Stack Overflow](https://stackoverflow.com/c/kaufman-lab/questions)
-- [EAC Developer's Guide](https://kaufman-lab.github.io/eac-devguide/)
+- [EAC Developer's Guide](https://kaufman-lab.github.io/eac-devguide/) (in progress)
 
-# External Links
+# Submit a Data Request
 
-- [MESA Air Internal Site](https://www.uwchscc.org/MESAAP) _(login required)_
+- [Modeling Data Requests (DR)](https://catalyst.uw.edu/webq/survey/agassett/236008)
+- [Health Data Requests (HR)](https://catalyst.uw.edu/webq/survey/agassett/236007) 
