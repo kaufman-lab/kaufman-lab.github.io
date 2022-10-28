@@ -10,3 +10,5 @@
 
 - [O'Reilly](https://learning.oreilly.com/home/) *E-Books about programming, data science, etc.* (log in with your UW email)
 - [Hadley's R Packages](https://r-pkgs.org/) *The definitive resource for developing R packages*
+
+# [Recommended Tutorials](tutorials.md)
