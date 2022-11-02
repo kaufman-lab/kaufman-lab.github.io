@@ -22,6 +22,10 @@ _Tip: Use RStudio on your computer to approximate the Linux command line for pra
 
 [O'Reilly "Efficient Linux at the Command Line"](https://learning.oreilly.com/library/view/efficient-linux-at/9781098113391/) - An advanced deep-dive (use your UW login to access for free)
 
+## Git
+
+https://github.com/kaufman-lab/git-workflow-tutorial/wiki/Task-0:-Setup - Branching guide for our group
+
 ## R markdown
 
 https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html - Nice-looking tables in R markdown
