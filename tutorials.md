@@ -24,9 +24,12 @@ _Tip: Use RStudio on your computer to approximate the Linux command line for pra
 
 ## Git
 
-[Git Quickstart Guide](https://github.com/kaufman-lab/git-workflow-tutorial/wiki/Task-0:-Setup) - Branching guide for our group
+[Git Access Guide](https://github.com/kaufman-lab/git-workflow-tutorial/wiki/Task-0:-Setup) - Authentication guide for our group
+
+[Git Workflow Guide](https://github.com/kaufman-lab/git-workflow-tutorial/wiki/Git-Workflow) - Branching guide for our group
 
 ## R
+
 [sf Cheat Sheet](https://github.com/rstudio/cheatsheets/blob/main/sf.pdf) - How to use package sf for plotting maps
 
 ## R markdown
