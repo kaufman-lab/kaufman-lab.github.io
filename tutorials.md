@@ -21,3 +21,7 @@ data team member, the example data sets are already loaded in the `public` schem
 _Tip: Use RStudio on your computer to approximate the Linux command line for practicing the basics if you don't have access to a Linux machine._
 
 [O'Reilly "Efficient Linux at the Command Line"](https://learning.oreilly.com/library/view/efficient-linux-at/9781098113391/) - An advanced deep-dive (use your UW login to access for free)
+
+## R markdown
+
+https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html - Nice-looking tables in R markdown
