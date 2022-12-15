@@ -22,6 +22,8 @@ _Tip: Use RStudio on your computer to approximate the Linux command line for pra
 
 [O'Reilly "Efficient Linux at the Command Line"](https://learning.oreilly.com/library/view/efficient-linux-at/9781098113391/) - An advanced deep-dive (use your UW login to access for free)
 
+[Data Science at the Command Line](https://learning.oreilly.com/library/view/data-science-at/9781492087908/) - Another EBook that spends a lot of time using command line to enhance R & Python data science workflows. 
+
 ## Git
 
 [Git Access Guide](https://github.com/kaufman-lab/git-workflow-tutorial/wiki/Task-0:-Setup) - Authentication guide for our group
@@ -30,9 +32,14 @@ _Tip: Use RStudio on your computer to approximate the Linux command line for pra
 
 ## R
 
+### GIS 
+
 [sf Cheat Sheet](https://github.com/rstudio/cheatsheets/blob/main/sf.pdf) - How to use package sf for plotting maps
 
-## R markdown
+[Geocomputation with R](https://geocompr.robinlovelace.net/index.html) - Ebook about GIS wit raster & vector data in R 
+
+
+### R Markdown
 
 [kableExtra package](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) - Nice-looking tables in R markdown
 
